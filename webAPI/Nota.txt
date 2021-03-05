@@ -1,0 +1,4 @@
+﻿Profe aca debería de haber el API pero la interfaz. 
+Ya sea con linea de consola o como en el otro paquete que dice Frontend
+
+Probé con FrontEnd que es un MVC que en un lugar de conectarse al modelo se conecta a la entidad y accesoDatos (conexion de mongoDB), Entonces esta solucion esta acá pero debería de -NO- estar porque se pidió que se implementara o probará en POSTMAN

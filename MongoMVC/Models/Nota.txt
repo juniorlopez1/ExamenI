@@ -1,0 +1,2 @@
+﻿Para MVC se implementa el Modelo aca.
+Por instruccion del profesor se implementa bajo el proyect entidad.
